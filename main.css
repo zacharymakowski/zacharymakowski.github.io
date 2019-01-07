@@ -1,48 +1,6 @@
-p {	
-  background-color: khaki; /*background color of everything inside paragraphs*/
-  color: mediumSeaGreen /*font color*/
+html{
+  background-color: dodgerBlue;
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 18px;
+  color: tomato;
 }
-
-img {
-  border-style: inset; 
-  border-width: 4px;
-  border_color: mediumSlateBlue;
-  width: 115px; 
-}
-
-h1 {
-  font-family: 'Trebuchet MS', sans-serif; 
-  font-size: 48px;
-  color: deepSkyBlue;
-  font-weight: normal; 
-}
-
-h2 {
-  margin-top: 12px;
-  margin-right: 10px; 
-  margin-bottom: 8px;
-  margin-left: 16px; 
-}
-
-
-h3 {
-  margin: 0 auto 0 auto; 
-  box-shadow: 2px -5px 3px 4px gr
-}
-
-h4 {
-  text-shadow: 2px -5px 3px lightBlue; 
-}
-
-h5 {
-  text-shadow: 2px -5px 3px lightBlue, 0px -2px 10px yellow;  	
-}
-
-header {
-  text-align: center;
-}
-
-a {
-  text-decoration: none;
-  color: darkViolet; 
-}	
