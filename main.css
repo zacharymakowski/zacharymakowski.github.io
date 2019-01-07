@@ -1,5 +1,5 @@
 p {	
-  background-color: lightblue; /*background color of everything inside paragraphs*/
+  background-color: khaki; /*background color of everything inside paragraphs*/
   color: green /*font color*/
 }
 
@@ -44,5 +44,5 @@ header {
 
 a {
   text-decoration: none;
-  color: pink; 
+  color: darkViolet; 
 }	
